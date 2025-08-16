@@ -31,26 +31,24 @@ As a Computer Science undergraduate with a passion for solving real-world proble
 
 ---
 
-### 🚀 Projects
+## 🚀 Projects  
+
+- 🔹 **Knowledge Distillation – Intel Unnati Project**  
+  *Implemented model compression techniques using Knowledge Distillation to optimize deep learning models for efficiency and scalability.*  
+  `Status:` Completed  
 
 - 🔹 **AgriConnect App**  
   *Flutter + Firebase mobile application empowering farmers to sell produce directly to consumers.*  
-  `Status:` In Progress
+  `Status:` In Progress  
 
 - 🔹 **E-Commerce Web Platform**  
   *A responsive MERN stack application with REST APIs, authentication, and cart management.*  
-  `Impact:` Reduced payment errors by 20%, improved server response time by 25%.
+  `Impact:` Reduced payment errors by 20%, improved server response time by 25%.  
 
-- 🔹 **Netflix Clone**  
-  *Frontend replica of Netflix using HTML/CSS/JavaScript with responsive carousel & navigation.*
+- 🔹 **ADAS – Automatic Alert Messages**  
+  *Developing an Advanced Driver Assistance System (ADAS) to generate real-time alert messages for improved road safety.*  
+  `Status:` Ongoing  
 
-- 🔹 **To-Do List Web App**  
-  *Built using vanilla JavaScript for dynamic task addition, deletion, and updates.*
-
-- 🔹 **HackerRank Automation**  
-  *Python-based automation for streamlining coding challenge submissions.*
-
----
 
 ### 📊 GitHub Stats
 
